@@ -1,0 +1,23 @@
+{
+    "data": [
+      {
+        "propertyName": "Silverado",
+        "address": "",
+        "latitude": null,
+        "longitude": null
+      }
+    ],
+    "meta": {
+      "model": "llama3",
+      "elapsed_ms": 171649,
+      "index_time_ms": 4538,
+      "extraction_time_ms": 167111,
+      "html_size_chars": 255555,
+      "total_chunks_available": 37,
+      "chunks_examined": 37,
+      "iterations_performed": 2,
+      "window_size": 20,
+      "items_extracted": 1,
+      "approach": "sliding_window_rag"
+    }
+  }

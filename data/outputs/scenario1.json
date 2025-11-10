@@ -1,0 +1,57 @@
+{
+    "data": [
+      {
+        "name": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+        "price": "52.29"
+      },
+      {
+        "name": "A Light in the Attic",
+        "price": "51.77"
+      },
+      {
+        "name": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+        "price": "57.25"
+      },
+      {
+        "name": "Set Me Free",
+        "price": "17.46"
+      },
+      {
+        "name": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+        "price": "37.59"
+      },
+      {
+        "name": "Sapiens: A Brief History of Humankind",
+        "price": "54.23"
+      },
+      {
+        "name": "The Black Maria",
+        "price": "52.15"
+      },
+      {
+        "name": "Sharp Objects",
+        "price": "47.82"
+      },
+      {
+        "name": "Libertarianism for Beginners",
+        "price": "51.33"
+      },
+      {
+        "name": "It's Only the Himalayas",
+        "price": "53.74"
+      }
+    ],
+    "meta": {
+      "model": "llama3",
+      "elapsed_ms": 93800,
+      "index_time_ms": 3811,
+      "extraction_time_ms": 89989,
+      "html_size_chars": 51274,
+      "total_chunks_available": 29,
+      "chunks_examined": 29,
+      "iterations_performed": 2,
+      "window_size": 15,
+      "items_extracted": 10,
+      "approach": "sliding_window_rag"
+    }
+  }

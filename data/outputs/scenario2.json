@@ -1,0 +1,141 @@
+{
+    "data": [
+        {
+            "jobTitle": null,
+            "location": "Goulburn , New South Wales AU",
+            "salary": "$1,750 per day",
+            "companyName": null
+        },
+        {
+            "jobTitle": null,
+            "location": "Nowra , New South Wales AU",
+            "salary": "$200 per hour",
+            "companyName": null
+        },
+        {
+            "jobTitle": "Locum",
+            "location": "Goulburn, New South Wales AU",
+            "salary": "$180 per hour"
+        },
+        {
+            "jobTitle": "Locum",
+            "location": "Matiland, New South Wales AU",
+            "salary": "$2,500 per day"
+        },
+        {
+            "jobTitle": "Locum",
+            "location": "Batemans Bay, New South Wales AU",
+            "salary": null
+        },
+        {
+            "jobTitle": "Locum",
+            "location": "Orange, New South Wales AU",
+            "salary": null
+        },
+        {
+            "jobTitle": "Locum",
+            "location": "Goulburn, New South Wales AU",
+            "salary": "$90 per hour"
+        },
+        {
+            "jobTitle": "Locum",
+            "location": "Goulburn, New South Wales AU",
+            "salary": "$3,500 per day"
+        },
+        {
+            "jobTitle": "Locum",
+            "location": "Goulburn, New South Wales AU",
+            "salary": "$200 per hour"
+        },
+        {
+            "jobTitle": "Locum",
+            "location": "Matiland, New South Wales AU",
+            "salary": null
+        },
+        {
+            "jobTitle": "Locum",
+            "location": "North Tamworth, New South Wales AU",
+            "salary": null,
+            "companyName": null
+        },
+        {
+            "jobTitle": "Locum",
+            "location": "Albury, New South Wales AU",
+            "salary": null,
+            "companyName": null
+        },
+        {
+            "jobTitle": "Locum",
+            "location": "Goulburn, New South Wales AU",
+            "salary": null,
+            "companyName": null
+        },
+        {
+            "jobTitle": "Obstetrics and Gynaecology",
+            "location": null,
+            "salary": null,
+            "companyName": null
+        },
+        {
+            "jobTitle": "Intensive Care Medicine",
+            "location": null,
+            "salary": null,
+            "companyName": null
+        },
+        {
+            "jobTitle": "Emergency Medicine (ED)",
+            "location": null,
+            "salary": null,
+            "companyName": null
+        },
+        {
+            "jobTitle": "General Medicine / Physician",
+            "location": null,
+            "salary": null,
+            "companyName": null
+        },
+        {
+            "jobTitle": "Resident Medical Officer",
+            "location": "Popular beachside holiday town",
+            "salary": null,
+            "companyName": null
+        },
+        {
+            "jobTitle": "Paediatrics",
+            "location": null,
+            "salary": null,
+            "companyName": null
+        },
+        {
+            "jobTitle": "Specialist Consultant",
+            "location": "New South Wales (NSW), approximately 2.5 hours from Sydney and 1 hour from Canberra.",
+            "salary": null,
+            "companyName": null
+        },
+        {
+            "jobTitle": "Resident Medical Officer",
+            "location": "New South Wales (NSW), approximately 2.5 hours from Sydney and 1 hour from Canberra.",
+            "salary": null,
+            "companyName": null
+        },
+        {
+            "jobTitle": "Registrar",
+            "location": "New South Wales (NSW), approximately 2.5 hours from Sydney and 1 hour from Canberra.",
+            "salary": null,
+            "companyName": null
+        }
+    ],
+    "meta": {
+        "model": "llama3",
+        "elapsed_ms": 392989,
+        "index_time_ms": 1420,
+        "extraction_time_ms": 391569,
+        "html_size_chars": 391207,
+        "total_chunks_available": 106,
+        "chunks_examined": 75,
+        "iterations_performed": 5,
+        "window_size": 15,
+        "items_extracted": 22,
+        "approach": "sliding_window_rag"
+    }
+}

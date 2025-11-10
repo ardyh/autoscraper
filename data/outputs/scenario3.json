@@ -1,0 +1,167 @@
+{
+    "data": [
+      {
+        "name": "Phoenix Rising FC Youth Soccer",
+        "logo": "https://www.azsoccerassociation.org/wp-content/uploads/sites/186/2025/04/thumbnail_Rising_Logo.png",
+        "website": "https://www.prfcyouthsoccer.com/"
+      },
+      {
+        "name": "Phoenix Premier",
+        "logo": "",
+        "website": "https://www.phoenixpremierfc.com/page/show/842250-home"
+      },
+      {
+        "name": "Liverpool FC/League International Academy",
+        "logo": "https://www.azsoccerassociation.org/wp-content/uploads/sites/186/2024/07/download-20.png",
+        "website": "https://www.legendsfcaz.com/"
+      },
+      {
+        "name": "Legends FC Arizona",
+        "logo": "",
+        "website": "https://www.legendsfcaz.com/"
+      },
+      {
+        "name": "Madison FC",
+        "logo": "",
+        "website": "https://www.madisonfutbol.com/"
+      },
+      {
+        "name": "Sonoita-Elgin Soccer Club",
+        "logo": "",
+        "website": "https://www.facebook.com/SonoitaElginSoccerClub/"
+      },
+      {
+        "name": "Juventus Soccer Club",
+        "logo": "",
+        "website": "https://juventussoccerclub.org/"
+      },
+      {
+        "name": "La Academia FC",
+        "logo": "",
+        "website": "https://www.socceracademia.com/"
+      },
+      {
+        "name": "Epic Soccer Club",
+        "logo": "",
+        "website": "https://www.epicazsoccer.org/"
+      },
+      {
+        "name": "Excel Soccer Academy",
+        "logo": "",
+        "website": "https://www.excelsocceracademy.com/"
+      },
+      {
+        "name": "FC Arizona",
+        "logo": "",
+        "website": "https://fcarizona.com/"
+      },
+      {
+        "name": "FC Batavia",
+        "logo": "",
+        "website": "https://fcbatavia.com/"
+      },
+      {
+        "name": "Pima County Surf",
+        "logo": "",
+        "website": "https://pimacountysurf.com/"
+      },
+      {
+        "name": "Renegades Soccer Club",
+        "logo": "",
+        "website": "http://renegadessc.arizonasoccerlive.org/home.php"
+      },
+      {
+        "name": "BVB International Academy Arizona",
+        "logo": "",
+        "website": "https://www.bvbia-arizona.com/"
+      },
+      {
+        "name": "Next Level Soccer",
+        "logo": "https://www.azsoccerassociation.org/wp-content/uploads/sites/186/2024/07/Nextlevel_yellowstar.jpg",
+        "website": ""
+      },
+      {
+        "name": "Nos Santos SC",
+        "logo": "",
+        "website": "https://santossc.com/"
+      },
+      {
+        "name": "Fierce Futbol Lions",
+        "logo": "",
+        "website": "https://www.fiercefutbollions.net/"
+      },
+      {
+        "name": "Futbolito Bimbo Soccer League",
+        "logo": "",
+        "website": "https://www.tuzosphoenix.com/"
+      },
+      {
+        "name": "Gilbert Youth Soccer Association",
+        "logo": "https://www.azsoccerassociation.org/wp-content/uploads/sites/186/2023/09/19.png",
+        "website": "https://www.azgysa.com/"
+      },
+      {
+        "club_name": "Phoenix Surf",
+        "logo_image_link": "",
+        "official_website": "https://phoenixsurfsoccer.com/"
+      },
+      {
+        "club_name": "Phoenix United FC",
+        "logo_image_link": "",
+        "official_website": "https://www.phoenixunitedfc.com/"
+      },
+      {
+        "club_name": "Phoenix Rush",
+        "logo_image_link": "",
+        "official_website": "https://www.phoenixrushsoccer.com/"
+      },
+      {
+        "club_name": "Yavapai Soccer Club",
+        "logo_image_link": "",
+        "official_website": "https://yavapaisoccer.com/"
+      },
+      {
+        "club_name": "South Bank SC",
+        "logo_image_link": "https://www.azsoccerassociation.org/wp-content/uploads/sites/186/2023/09/37.png?w=500",
+        "official_website": ""
+      },
+      {
+        "club_name": "State 48 FC",
+        "logo_image_link": "",
+        "official_website": "https://state48fc.com/"
+      },
+      {
+        "club_name": "FC Deportivo Arizona",
+        "logo_image_link": "",
+        "official_website": "https://www.fcdeportivoaz.com/"
+      },
+      {
+        "club_name": "FC Elite Arizona",
+        "logo_image_link": "https://www.azsoccerassociation.org/wp-content/uploads/sites/186/2024/07/f90181_c3fc272db404409ab2dc0007f11e1bccmv2.png",
+        "official_website": "https://www.fcelitearizona.org/"
+      },
+      {
+        "club_name": "RSL-AZ Yuma",
+        "logo_image_link": "",
+        "official_website": "https://www.rsl-az.com/yuma"
+      },
+      {
+        "club_name": "Yuma Youth Soccer Association",
+        "logo_image_link": "",
+        "official_website": "https://yumayouthsoccer.gotsportsites.com/"
+      }
+    ],
+    "meta": {
+      "model": "llama3",
+      "elapsed_ms": 360991,
+      "index_time_ms": 3983,
+      "extraction_time_ms": 357008,
+      "html_size_chars": 213053,
+      "total_chunks_available": 37,
+      "chunks_examined": 37,
+      "iterations_performed": 3,
+      "window_size": 15,
+      "items_extracted": 30,
+      "approach": "sliding_window_rag"
+    }
+  }

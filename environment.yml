@@ -1,0 +1,31 @@
+name: mrscraper
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - lxml
+  - beautifulsoup4
+  - numpy
+  - scipy
+  - scikit-learn
+  - jupyter
+  - ipykernel
+  - pip:
+      - fastapi
+      - uvicorn[standard]
+      - pydantic
+      - httpx
+      - orjson
+      - rank-bm25
+      - faiss-cpu
+      - openai
+      - langchain
+      - langchain-core
+      - langchain-community
+      - langchain-text-splitters
+      - unstructured
+      - chromadb
+      - sentence-transformers
+      - langgraph
+

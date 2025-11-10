@@ -1,0 +1,9 @@
+sandbox*
+notes*
+/*.py
+*.md
+!README.md
+*.pdf
+*.txt
+generated/*
+test*
