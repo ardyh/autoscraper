@@ -7,3 +7,4 @@ notes*
 *.txt
 generated/*
 test*
+**__pycache__**

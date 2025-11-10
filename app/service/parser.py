@@ -48,7 +48,7 @@ def parse_with_llm(html: str, query: str, model_id: str | None = None) -> Tuple[
         html=html,
         query=query,
         max_iterations=5,
-        window_size=20,
+        window_size=15,
         max_total_chunks=150,
         model_id=model_id
     )
