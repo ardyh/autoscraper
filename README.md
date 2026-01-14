@@ -25,11 +25,14 @@ Implementation
 
 Notes on Performance and Limitations
 ------------------------------------
-Strengths:
+**Strengths:**
+
 - **Generalizability:** This approach does not depend on hard-coded parsing for a single use-case. We can also easily swap the model used for generation and the DB used for retrieval
 - **Coverage:** The retriever basically covers the whole HTML page for search
 - **Scalability:** I believe that using this approach, a cost effective way to increase performance and reduce latency is to just use a bigger model with longer context size and more parameters. Latency will decrease as we reduce the number of iteration, and accuracy will increase as we're supposed to use a 'smarter' model
-Weaknesses:
+
+**Weaknesses:**
+
 - **Latency:** On average, the provided scenarios took >2m to run. The blocker is that we need to perform the "generation" part multiple times, and the length of context that we feed the LLM is also not short. Although we need to take into account that this is run on a consumer device. Assuming it's done on a proper server, we might achieve 3x speedup
 - **Accuracy:** 
   - Since we're dividing the content into blocks, there's a chance that the information for one item might not be included within the same block, therefore leading the LLM to output `null` in some fields. For example, the information on `"job": "nurse"` lives on separate blocks from the information on its salary. 
